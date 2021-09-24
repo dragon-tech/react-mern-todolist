@@ -1,7 +1,0 @@
-{
-  "env": {
-    "MONGODB_ATLAS_USERNAME": "dragontech",
-    "MONGODB_ATLAS_PASSWORD": "XtF8nFzewYMc3Q4v",
-    "MONGODB_ATLAS_DBNAME": "database"
-  }
-}
